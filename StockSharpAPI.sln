@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.23107.0
+VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Samples", "Samples", "{D4F0E771-46F8-41B6-BB9D-AC00C87F09E5}"
 EndProject
@@ -223,6 +223,11 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleChartPublic", "Samples\Common\SampleChart\SampleChartPublic.csproj", "{8B430A27-B392-4129-9AA2-731A52427E40}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rithmic", "Connectors\Rithmic\Rithmic.csproj", "{FFBC7740-0D2B-49BA-8F95-59E4FC915D06}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2C9B86E4-6BFF-4971-BBBD-2EAB621EF7D5}"
+	ProjectSection(SolutionItems) = preProject
+		CodeMap1.dgml = CodeMap1.dgml
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
